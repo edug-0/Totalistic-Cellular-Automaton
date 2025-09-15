@@ -18,6 +18,7 @@ The program evolves a world with a total of 65 cells over several generations, p
 1. Clone Respitory or download file.
 2. Compile using:
      ```bash
-     gcc -o auto
+     gcc Totalistic_Cellular_Automaton -o automaton
+     ./automaton.exe
 
 
